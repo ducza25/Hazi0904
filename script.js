@@ -2,10 +2,12 @@
 //console.error
 //onclick="alert('Aludni akarok')"
 
-document.querySelector('h1').onclick = function () {
+/*document.querySelector('h1').onclick = function () {
   alert('Aludni akarok!')
 }
 
 document.querySelector('h2').onclick = function () {
   alert('Hello!')
-}
+}*/
+
+const helloh1 = document.querySelector('hello')
